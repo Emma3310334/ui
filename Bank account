@@ -1,0 +1,9 @@
+holder: 'Jan Dammenhain',
+    number: '**** **** **** 3245',
+    balance: 50000.0,
+    currency: 'USD',
+    transactions: [
+      { id: 1, date: '2025-04-18', description: 'Grocery Store', amount: -95.37 },
+      { id: 2, date: '2025-04-15', description: 'Salary Deposit', amount: 3500.0 },
+      { id: 3, date: '2025-04-10', description: 'Electricity Bill', amount: -120.5 },
+      { id: 4, date: '2025-04-05', description: 'Coffee Shop', amount: -8.75 },
